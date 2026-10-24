@@ -6,4 +6,4 @@ Projetos desenvolvidos na Trilha de IA e Dados 2026, do Geração Caldeira.
 
 ---
 Conquistas
- <img src="./assets/badges.png" width="700"/>
+ <img src="./assets/conquistas.png" width="700"/>
